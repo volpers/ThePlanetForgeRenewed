@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetForge", "PlanetForge\PlanetForge.csproj", "{77DD5704-517E-4283-9A35-27080D51554C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{528DE243-B19A-4353-9BE8-54916BFB0173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77DD5704-517E-4283-9A35-27080D51554C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DD5704-517E-4283-9A35-27080D51554C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DD5704-517E-4283-9A35-27080D51554C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DD5704-517E-4283-9A35-27080D51554C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528DE243-B19A-4353-9BE8-54916BFB0173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528DE243-B19A-4353-9BE8-54916BFB0173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528DE243-B19A-4353-9BE8-54916BFB0173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528DE243-B19A-4353-9BE8-54916BFB0173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EADB3742-725C-4BF5-BB5D-92C43EC0FA00}
+	EndGlobalSection
+EndGlobal

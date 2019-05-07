@@ -1,0 +1,6 @@
+C:\Users\nkleine\Documents\GitHub\ThePlanetForgeRenewed\ThePlanetForgeRenewed\PlanetForge\bin\Debug\netstandard2.0\PlanetForge.deps.json
+C:\Users\nkleine\Documents\GitHub\ThePlanetForgeRenewed\ThePlanetForgeRenewed\PlanetForge\bin\Debug\netstandard2.0\PlanetForge.dll
+C:\Users\nkleine\Documents\GitHub\ThePlanetForgeRenewed\ThePlanetForgeRenewed\PlanetForge\obj\Debug\netstandard2.0\PlanetForge.csprojAssemblyReference.cache
+C:\Users\nkleine\Documents\GitHub\ThePlanetForgeRenewed\ThePlanetForgeRenewed\PlanetForge\obj\Debug\netstandard2.0\PlanetForge.csproj.CoreCompileInputs.cache
+C:\Users\nkleine\Documents\GitHub\ThePlanetForgeRenewed\ThePlanetForgeRenewed\PlanetForge\obj\Debug\netstandard2.0\PlanetForge.AssemblyInfoInputs.cache
+C:\Users\nkleine\Documents\GitHub\ThePlanetForgeRenewed\ThePlanetForgeRenewed\PlanetForge\obj\Debug\netstandard2.0\PlanetForge.AssemblyInfo.cs
