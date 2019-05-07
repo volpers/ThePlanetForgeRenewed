@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "90cb1fd17532004bcd32dc1e3a43ef3fd402e345"
+    "signature": "744f8a90e2ca6a0c3ae41d65ce62368be4a04de4"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,7 +10,9 @@
       "PlanetForge/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
-          "OpenGL.Net": "0.8.4"
+          "OpenGL.Net": "0.8.4",
+          "OpenGL.Net.Math": "0.8.4",
+          "GLFW.NET": "1.0.1.0"
         },
         "runtime": {
           "PlanetForge.dll": {}
@@ -27,6 +29,22 @@
           "lib/net461/OpenGL.Net.dll": {
             "assemblyVersion": "0.8.4.0",
             "fileVersion": "0.8.4.0"
+          }
+        }
+      },
+      "OpenGL.Net.Math/0.8.4": {
+        "runtime": {
+          "lib/net461/OpenGL.Net.Math.dll": {
+            "assemblyVersion": "0.8.4.0",
+            "fileVersion": "0.8.4.0"
+          }
+        }
+      },
+      "GLFW.NET/1.0.1.0": {
+        "runtime": {
+          "GLFW.NET.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
           }
         }
       }
@@ -58,6 +76,18 @@
       "sha512": "sha512-F7o2KkIrz9rrtBY7+VRgPKnf2mV8pt3h4/o/CWPt86oIocjzKTQFNo2qH4zVYSWyy/T9rS0xBpu9t75MS6wM8Q==",
       "path": "opengl.net/0.8.4",
       "hashPath": "opengl.net.0.8.4.nupkg.sha512"
+    },
+    "OpenGL.Net.Math/0.8.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ubrpWODLeQhCrwxYrwgPR5g9RK7P3Q2qn7JiZm366FGqdQR1IK89L0hO8fK+X4B3b3S8GdRD2vnQe0dThQZCgQ==",
+      "path": "opengl.net.math/0.8.4",
+      "hashPath": "opengl.net.math.0.8.4.nupkg.sha512"
+    },
+    "GLFW.NET/1.0.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
