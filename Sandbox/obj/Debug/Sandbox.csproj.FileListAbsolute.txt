@@ -8,3 +8,6 @@ C:\Users\nkleine\Documents\GitHub\ThePlanetForgeRenewed\Sandbox\obj\Debug\Sandbo
 C:\Users\nkleine\Documents\GitHub\ThePlanetForgeRenewed\Sandbox\obj\Debug\Sandbox.csproj.CopyComplete
 C:\Users\nkleine\Documents\GitHub\ThePlanetForgeRenewed\Sandbox\obj\Debug\Sandbox.exe
 C:\Users\nkleine\Documents\GitHub\ThePlanetForgeRenewed\Sandbox\obj\Debug\Sandbox.pdb
+C:\Users\nkleine\Documents\GitHub\ThePlanetForgeRenewed\Sandbox\bin\Debug\NLog.config
+C:\Users\nkleine\Documents\GitHub\ThePlanetForgeRenewed\Sandbox\bin\Debug\NLog.dll
+C:\Users\nkleine\Documents\GitHub\ThePlanetForgeRenewed\Sandbox\bin\Debug\NLog.xml

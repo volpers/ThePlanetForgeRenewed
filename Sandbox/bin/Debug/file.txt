@@ -1,0 +1,1 @@
+2019-06-18 13:45:50.1054|ERROR|PlanetForge.utils.Logger|Testmessage!

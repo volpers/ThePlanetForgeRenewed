@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 using PlanetForge;
+using PlanetForge.utils;
 
 namespace Sandbox
 {
@@ -13,7 +14,6 @@ namespace Sandbox
         static void Main(string[] args)
         {
             SandboxApp application = new SandboxApp();
-            Console.WriteLine("Hello World!");
             application.Run();
         }
 
