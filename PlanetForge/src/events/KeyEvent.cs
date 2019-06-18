@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PlanetForge.events
 {
-    class KeyEvent : Event
+    public class KeyEvent : Event
     {
 
         public int KeyCode { get; protected set; }
@@ -16,7 +16,7 @@ namespace PlanetForge.events
         }
     }
 
-    class KeyPressedEvent : KeyEvent {
+    public class KeyPressedEvent : KeyEvent {
 
         public int RepeatCount { get; }      
       

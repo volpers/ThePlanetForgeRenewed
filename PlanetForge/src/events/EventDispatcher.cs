@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PlanetForge.events
 {
-    delegate bool EventAction<T>(T e) where T : Event;
+    public delegate bool EventAction<T>(T e) where T : Event;
 
     public class EventDispatcher
     {
@@ -15,7 +15,7 @@ namespace PlanetForge.events
             _event = e;
         }
 
-        void Dispatch<T>(EventAction<T> eventAction) where T : Event {
+        public void Dispatch<T>(EventAction<T> eventAction) where T : Event {
             _event.Handled = eventAction(_event as T);
         }
     }
