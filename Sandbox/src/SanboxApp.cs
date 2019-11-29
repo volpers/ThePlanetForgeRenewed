@@ -8,7 +8,7 @@ using PlanetForge;
 using PlanetForge.utils;
 using PlanetForge.events;
 
-namespace Sandbox
+namespace PlanetForge_Sandbox
 {
     class SandboxApp : Application
     {
@@ -22,7 +22,13 @@ namespace Sandbox
         {
             KeyPressedEvent keyPressedEvent = new KeyPressedEvent(0, 0);
             EventDispatcher dispatcher = new EventDispatcher(keyPressedEvent);
-            dispatcher.Dispatch<KeyPressedEvent>(e => { Console.WriteLine("BLAAAAAAAAAAA"); return true; });
+            dispatcher.Dispatch<KeyPressedEvent>(e => {
+                Logger.Info("Info");
+                Logger.Trace("Trace");
+                Logger.Error("Error");
+                Logger.Warn("Warn");                
+                return true; }      
+             );
             while (true) ;
         }
     }
