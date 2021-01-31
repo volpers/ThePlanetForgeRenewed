@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using PlanetForge.utils;
-
-namespace PlanetForge.events
+﻿namespace PlanetForge_Engine.events
 {
    public enum EventType {
         None, WindowClose, WindowResize, WindowFocus, WindowLostFocus, WindowMoved,

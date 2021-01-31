@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace PlanetForge.utils
+namespace PlanetForge_Engine.utils
 {
     public class Logger
     {

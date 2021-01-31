@@ -1,22 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
+using Silk.NET.Input;
 
-namespace PlanetForge.events
+namespace PlanetForge_Engine.events
 {
     public delegate bool EventAction<T>(T e) where T : Event;
 
     public class EventDispatcher
     {
-        private Event _event;
-        
+        private Event @event;
        
+        
         public EventDispatcher(Event e) {
-            _event = e;
+            @event = e;
         }
 
         public void Dispatch<T>(EventAction<T> eventAction) where T : Event {
-            _event.Handled = eventAction(_event as T);
+            @event.Handled = eventAction(@event as T);
         }
     }
 }

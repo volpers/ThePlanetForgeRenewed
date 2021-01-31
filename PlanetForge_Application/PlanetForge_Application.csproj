@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\PlanetForge_Engine\PlanetForge_Engine.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="NLog" Version="4.7.7" />
+      <PackageReference Include="NLog.Config" Version="4.7.7" />
+    </ItemGroup>
+
+</Project>

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetForge_Sandbox", "Sandbox\PlanetForge_Sandbox.csproj", "{528DE243-B19A-4353-9BE8-54916BFB0173}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetForge_Engine", "PlanetForge_Engine\PlanetForge_Engine.csproj", "{BD00AFE1-F71A-4375-89FA-1274CAC1D1EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetForge_Engine", "PlanetForge_Engine\PlanetForge_Engine.csproj", "{3C7A3843-EBAB-42F4-9376-30BB6F721A38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetForge_Application", "PlanetForge_Application\PlanetForge_Application.csproj", "{D5BE9AF6-CAF7-4990-880E-867E8403C176}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{528DE243-B19A-4353-9BE8-54916BFB0173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{528DE243-B19A-4353-9BE8-54916BFB0173}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{528DE243-B19A-4353-9BE8-54916BFB0173}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{528DE243-B19A-4353-9BE8-54916BFB0173}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3C7A3843-EBAB-42F4-9376-30BB6F721A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C7A3843-EBAB-42F4-9376-30BB6F721A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C7A3843-EBAB-42F4-9376-30BB6F721A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C7A3843-EBAB-42F4-9376-30BB6F721A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD00AFE1-F71A-4375-89FA-1274CAC1D1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD00AFE1-F71A-4375-89FA-1274CAC1D1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD00AFE1-F71A-4375-89FA-1274CAC1D1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD00AFE1-F71A-4375-89FA-1274CAC1D1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5BE9AF6-CAF7-4990-880E-867E8403C176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BE9AF6-CAF7-4990-880E-867E8403C176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BE9AF6-CAF7-4990-880E-867E8403C176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BE9AF6-CAF7-4990-880E-867E8403C176}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+E:\Documents\GitHub\ThePlanetForgeRenewed\PlanetForge_Engine\bin\Debug\net5.0\NLog.config
+E:\Documents\GitHub\ThePlanetForgeRenewed\PlanetForge_Engine\bin\Debug\net5.0\PlanetForge_Engine.deps.json
+E:\Documents\GitHub\ThePlanetForgeRenewed\PlanetForge_Engine\bin\Debug\net5.0\PlanetForge_Engine.dll
+E:\Documents\GitHub\ThePlanetForgeRenewed\PlanetForge_Engine\bin\Debug\net5.0\ref\PlanetForge_Engine.dll
+E:\Documents\GitHub\ThePlanetForgeRenewed\PlanetForge_Engine\bin\Debug\net5.0\PlanetForge_Engine.pdb
+E:\Documents\GitHub\ThePlanetForgeRenewed\PlanetForge_Engine\obj\Debug\net5.0\PlanetForge_Engine.csprojAssemblyReference.cache
+E:\Documents\GitHub\ThePlanetForgeRenewed\PlanetForge_Engine\obj\Debug\net5.0\PlanetForge_Engine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\ThePlanetForgeRenewed\PlanetForge_Engine\obj\Debug\net5.0\PlanetForge_Engine.AssemblyInfoInputs.cache
+E:\Documents\GitHub\ThePlanetForgeRenewed\PlanetForge_Engine\obj\Debug\net5.0\PlanetForge_Engine.AssemblyInfo.cs
+E:\Documents\GitHub\ThePlanetForgeRenewed\PlanetForge_Engine\obj\Debug\net5.0\PlanetForge_Engine.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\ThePlanetForgeRenewed\PlanetForge_Engine\obj\Debug\net5.0\PlanetForge_Engine.dll
+E:\Documents\GitHub\ThePlanetForgeRenewed\PlanetForge_Engine\obj\Debug\net5.0\ref\PlanetForge_Engine.dll
+E:\Documents\GitHub\ThePlanetForgeRenewed\PlanetForge_Engine\obj\Debug\net5.0\PlanetForge_Engine.pdb

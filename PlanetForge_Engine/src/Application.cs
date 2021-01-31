@@ -1,17 +1,19 @@
-﻿using System;
-using PlanetForge.events;
-using PlanetForge.window;
+﻿using PlanetForge_Engine.events;
+using PlanetForge_Engine.window;
 
-namespace PlanetForge
+namespace PlanetForge_Engine
 {
     public class Application
     {
-        public Application() {
-            new GlfwContext(640, 480, new EventDispatcher(new WindowResizeEvent()));
+        private GlfwContext glfwContext;
+
+        public Application()
+        {
+            glfwContext = new GlfwContext(800, 600, new EventDispatcher(new WindowResizeEvent()));
         }
 
         public virtual void Run() {
-           
+           glfwContext.Start();
         }
 
         
